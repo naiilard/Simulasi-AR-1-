@@ -1,0 +1,1 @@
+# Simulasi-AR-1-

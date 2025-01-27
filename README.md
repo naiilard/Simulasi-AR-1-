@@ -9,3 +9,6 @@ Estimasi parameter menggunakan metode Ordinary Least Square
 Berikut merupakan model umum AR(p)
 
 Y_t = phi_1 * Y_(t-1) + phi_2 * Y_(t-1) + ... + phi_p * Y_(t-1)
+
+Model AR(1) 
+Y_t = phi_1 * Y_(t-1) + e_t
